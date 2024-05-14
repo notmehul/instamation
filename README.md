@@ -8,16 +8,10 @@ Using the LLaVa 1.6 + Mistral 7B model and Selenium, and some string manipulatio
 - Login to your instagram and post it
 
 Example of edits:
-original image and edited image
-
-<div style="display: flex; gap: 10px;">
-    <div>
-        <img src="https://github.com/notmehul/instamation/blob/main/ogimage.jpg" width="500" height="500">
-    </div>
-    <div>
-        <img src="https://github.com/notmehul/instamation/blob/main/edited-image.jpg" width="500" height="500">
-    </div>
-</div>
+Original Image
+<img src="https://github.com/notmehul/instamation/blob/main/ogimage.jpg" width="500" height="500">
+Edited Image
+<img src="https://github.com/notmehul/instamation/blob/main/edited-image.jpg" width="500" height="500">
 
 
 Future Updates:
