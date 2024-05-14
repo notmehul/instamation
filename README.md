@@ -9,10 +9,10 @@ Using the LLaVa 1.6 + Mistral 7B model and Selenium, and some string manipulatio
 
 Example of edits:
 original image
-![original picture](https://github.com/notmehul/instamation/blob/main/ogimage.jpg "OG Image")
+![original picture](https://github.com/notmehul/instamation/blob/main/ogimage.jpg "OG Image" | width=100)
 
 edited:
-![edited image](https://github.com/notmehul/instamation/blob/main/edited-image.jpg "edited")
+![edited image](https://github.com/notmehul/instamation/blob/main/edited-image.jpg "edited" | width=100)
 
 Future Updates:
 - Multi image support (selenium)
