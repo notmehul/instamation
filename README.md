@@ -8,8 +8,11 @@ Using the LLaVa 1.6 + Mistral 7B model and Selenium, and some string manipulatio
 - Login to your instagram and post it
 
 Example of edits:
-<image 1>
-<image 2>
+original image
+![original picture](https://github.com/notmehul/instamation/blob/main/ogimage.jpg "OG Image")
+
+edited:
+![edited image](https://github.com/notmehul/instamation/blob/main/edited-image.jpg "edited")
 
 Future Updates:
 - Multi image support (selenium)
