@@ -9,7 +9,7 @@ Using the LLaVa 1.6 + Mistral 7B model and Selenium, and some string manipulatio
 
 Example of edits:
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <p>Example of edits:<br>original image </p>
+    <p>original image </p>
     <div style="display: flex; gap: 10px;">
         <img src="https://github.com/notmehul/instamation/blob/main/ogimage.jpg" width="500" height="500">
         <p> edited image </p>
